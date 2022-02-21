@@ -16,8 +16,8 @@ Languages - Portuguese, native. English, Professional(2y living abroad).
 - 🏢 I'm currently working as Frontend Engineer at **ACCT.global**
 - ⚙️ I use daily: `.reactjs`, `.js`, `.html`, `.css`, `.svg`, `.figma`, `.git`, `agile`
 - 🌍 I'm mostly active within the **React.Js Community**
-- 💅 Products delivered: [ShopCLub](https://www.shopclub.com.br), [Electrolux](https://loja.electrolux.com.br), , [Vidgi Games](https://games.vidgi.com.br/)
+- 💅 Products delivered: [ShopCLub](https://www.shopclub.com.br), [Electrolux](https://loja.electrolux.com.br),  [Vidgi Games](https://games.vidgi.com.br/)
 - 🌱 Learning all about **MACH, NFT and web3**
 - 💬 Ping me about **Frontend**, **Web3**, **NFT**, **development**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/rubens-brandas/)
-- ⚡️ Fun fact: I've 3ys as digital nomad.
+- ⚡️ Fun fact: I've 3y as digital nomad.
